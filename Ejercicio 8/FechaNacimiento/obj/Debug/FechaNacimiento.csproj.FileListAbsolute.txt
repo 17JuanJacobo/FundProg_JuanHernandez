@@ -1,0 +1,7 @@
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\bin\Debug\FechaNacimiento.exe.config
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\bin\Debug\FechaNacimiento.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\bin\Debug\FechaNacimiento.pdb
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\obj\Debug\FechaNacimiento.csproj.AssemblyReference.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\obj\Debug\FechaNacimiento.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\obj\Debug\FechaNacimiento.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\Edad\FechaNacimiento\obj\Debug\FechaNacimiento.pdb

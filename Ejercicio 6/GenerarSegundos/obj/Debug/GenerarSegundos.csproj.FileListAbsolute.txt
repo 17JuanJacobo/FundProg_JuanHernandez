@@ -1,0 +1,7 @@
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\bin\Debug\GenerarSegundos.exe.config
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\bin\Debug\GenerarSegundos.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\bin\Debug\GenerarSegundos.pdb
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\obj\Debug\GenerarSegundos.csproj.AssemblyReference.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\obj\Debug\GenerarSegundos.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\obj\Debug\GenerarSegundos.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\SegundosTotales\GenerarSegundos\obj\Debug\GenerarSegundos.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\obj\Debug\ConversionCelsiusFahrenheit.csproj.AssemblyReference.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\obj\Debug\ConversionCelsiusFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\bin\Debug\ConversionCelsiusFahrenheit.exe.config
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\bin\Debug\ConversionCelsiusFahrenheit.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\bin\Debug\ConversionCelsiusFahrenheit.pdb
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\obj\Debug\ConversionCelsiusFahrenheit.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\ConversionTemperatura\ConversionCelsiusFahrenheit\obj\Debug\ConversionCelsiusFahrenheit.pdb

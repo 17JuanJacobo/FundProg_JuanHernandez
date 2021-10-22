@@ -1,0 +1,7 @@
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\obj\Debug\EncontrarNumeroMenorDe2Numeros.csproj.AssemblyReference.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\obj\Debug\EncontrarNumeroMenorDe2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\bin\Debug\EncontrarNumeroMenorDe2Numeros.exe.config
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\bin\Debug\EncontrarNumeroMenorDe2Numeros.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\bin\Debug\EncontrarNumeroMenorDe2Numeros.pdb
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\obj\Debug\EncontrarNumeroMenorDe2Numeros.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\NumeroMenor\EncontrarNumeroMenorDe2Numeros\obj\Debug\EncontrarNumeroMenorDe2Numeros.pdb

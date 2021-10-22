@@ -1,0 +1,7 @@
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\bin\Debug\Promedio.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\bin\Debug\Promedio.pdb
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\obj\Debug\Promedio.csproj.AssemblyReference.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\obj\Debug\Promedio.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\PromedioCercano\Promedio\obj\Debug\Promedio.pdb

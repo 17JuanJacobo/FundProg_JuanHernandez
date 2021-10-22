@@ -1,0 +1,7 @@
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\bin\Debug\NombreCarrera.exe.config
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\bin\Debug\NombreCarrera.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\bin\Debug\NombreCarrera.pdb
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\obj\Debug\NombreCarrera.csproj.AssemblyReference.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\obj\Debug\NombreCarrera.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\obj\Debug\NombreCarrera.exe
+C:\Users\Gateway\Documents\Ejercicios de programación\NombreCompletoCarrera\NombreCarrera\obj\Debug\NombreCarrera.pdb

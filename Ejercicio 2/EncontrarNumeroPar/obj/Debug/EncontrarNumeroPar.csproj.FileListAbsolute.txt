@@ -1,0 +1,7 @@
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\bin\Debug\EncontrarNumeroPar.exe.config
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\bin\Debug\EncontrarNumeroPar.exe
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\bin\Debug\EncontrarNumeroPar.pdb
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\obj\Debug\EncontrarNumeroPar.csproj.AssemblyReference.cache
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\obj\Debug\EncontrarNumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\obj\Debug\EncontrarNumeroPar.exe
+C:\Users\Gateway\source\repos\NumeroPar\EncontrarNumeroPar\obj\Debug\EncontrarNumeroPar.pdb
